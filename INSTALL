@@ -1,0 +1,8 @@
+$ pip install -i requirements.txt
+
+If you have problems with madmon, try with:
+
+pip install git+https://github.com/CPJKU/madmom
+
+
+
